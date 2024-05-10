@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   현재 대학교에 재학 중입니다. 주로 Spring을 공부하고 있습니다.
   <br/> <br/> <br/> <br/>
 
-  ###  🔨 I've used 🔨
+  ###  🔨 Tech Stacks 🔨
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
