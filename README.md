@@ -12,15 +12,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div align="center">
-  <br/> <br/>
-  <p>## Hi there 👋</p>
+
+<div align="center">  
+
+  ### Hi there 👋
   현재 대학교에 재학 중입니다. 주로 백엔드를 공부하고 있습니다.
   <br/> <br/>
-  ##  🔨 Once I've used 🔨
-  <br/> <br/>
-</div>
 
+  ###  🔨 Once I've used 🔨
+    <br/> <br/>
+</div>
 
 ##  📌 프로젝트
   - 객체 탐지 - YOLO 기본 설명
