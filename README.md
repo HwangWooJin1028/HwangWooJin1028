@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 <div align="center">  
 
   ### Hi there 👋
-  <hr>
   현재 대학교에 재학 중입니다. 주로 백엔드를 공부하고 있습니다.
   <br/> <br/>
 
   ###  🔨 Once I've used 🔨
-  <hr>
+  <img src="https://img.shields.io/badge/6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/E34F26?style=flat-square&logo=HTML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/1572B6?style=flat-square&logo=CSS&logoColor=white"/>
     <br/> <br/>
 </div>
 
