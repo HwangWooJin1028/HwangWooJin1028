@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <div align="center">  
 
   ### Hi there 👋
-  현재 대학교에 재학 중입니다. 주로 백엔드를 공부하고 있습니다.
+  현재 대학교에 재학 중입니다. 주로 Spring을 공부하고 있습니다.
   <br/> <br/>
 
   ###  🔨 Once I've used 🔨
@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
     <br/> <br/>
 </div>
 
