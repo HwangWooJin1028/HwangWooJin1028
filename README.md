@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <div align="center">  
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=300&section=header&text=HwangWooJin1028%20render&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&width=auto&height=300&section=header&text=HwangWooJin1028&fontSize=90&fontColor=ffffff)
 
   ### Hi there 👋
   현재 대학교에 재학 중입니다. 주로 Spring을 공부하고 있습니다.
