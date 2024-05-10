@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **HwangWooJin1028/HwangWooJin1028** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,8 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-##  🔨 Once I've used 🔨
-<br/> <br/>
+<div align="center">
+  ### Hi there 👋
+  현재 대학교에 재학 중입니다. 주로 백엔드를 공부하고 있습니다.
+  <br/> <br/>
+  ###  🔨 Once I've used 🔨
+  <br/> <br/>
+</div>
+
 
 ##  📌 프로젝트
   - 객체 탐지 - YOLO 기본 설명
