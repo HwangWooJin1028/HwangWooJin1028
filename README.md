@@ -13,6 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  <br/> <br/>
   ### Hi there 👋
   현재 대학교에 재학 중입니다. 주로 백엔드를 공부하고 있습니다.
   <br/> <br/>
