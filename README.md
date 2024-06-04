@@ -59,8 +59,8 @@ Here are some ideas to get you started:
 <br/> <br/> <br/> <br/>
 
 ##  📃 Spring Framework 프로젝트
-&nbsp;&nbsp;📌 임산부를 위한 친환경 농산물 쇼핑몰 - 현재 진행중
-
+&nbsp;&nbsp;📌 2024년 임산부를 위한 친환경 농산물 쇼핑몰<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/HwangWooJin1028/2023-capstone-shppingmall.git)
 <br/> <br/> <br/> <br/>
 
 
