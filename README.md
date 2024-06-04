@@ -21,6 +21,10 @@ Here are some ideas to get you started:
   컴퓨터정보보안전공 4학년 학생인 황우진입니다.<br/>현재 Spring Framwork, css, oracle database를 공부하며 프로젝트를 진행하고 있습니다. 
   <br/> <br/> <br/> <br/>
 
+  ### 📧 Conntect to 📧
+  <p>1028hwj@gmail.com</p>
+  <br/> <br/> <br/> <br/>
+
   ###  🔨 Tech Stacks 🔨
   <br/>
   
@@ -41,6 +45,7 @@ Here are some ideas to get you started:
   
   ####  🔨 Database 🔨 
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <br/><br/>
 
 
@@ -53,6 +58,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
   <img src="https://img.shields.io/badge/amazonec2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <br/><br/>
+
+  ####  🔨 개발도구 🔨 
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <img src="https://img.shields.io/badge/intelliJ-0071C5?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <br/><br/>
 
 </div>
