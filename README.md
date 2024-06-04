@@ -31,6 +31,7 @@ Here are some ideas to get you started:
   
   ####  🔨 Framework 🔨
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mybatis-7408FF?style=for-the-badge&logo=mybatis&logoColor=white"/>
   <br/><br/>
   
   
@@ -47,6 +48,7 @@ Here are some ideas to get you started:
   ####  🔨 Database 🔨 
   <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/mssql-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
   <br/><br/>
 
 
