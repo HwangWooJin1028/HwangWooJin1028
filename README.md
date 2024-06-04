@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
   ### 📧 Conntect to 📧
   <p>1028hwj@gmail.com</p>
-  <br/> <br/> <br/> <br/>
+  <br/> <br/>
 
   ###  🔨 Tech Stacks 🔨
   <br/>
