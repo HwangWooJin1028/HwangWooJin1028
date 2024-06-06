@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   컴퓨터정보보안전공 4학년 학생인 황우진입니다.<br/>현재 Spring Framwork, css, oracle database를 공부하며 프로젝트를 진행하고 있습니다. 
   <br/> <br/> <br/> <br/>
 
-  ### 📧 Conntect to 📧
+  ### 📧 Contect to 📧
   <p>1028hwj@gmail.com</p>
   <br/> <br/>
 
@@ -104,7 +104,7 @@ Here are some ideas to get you started:
 <br/> <br/> <br/> <br/>
 
 ##  📃 YOLO 프로젝트
-&nbsp;&nbsp;📌 2023년 K-해커톤 대회 - CCTV를 활용한 쓰레기를 무단투기하는 사람 식별 Native Program<br/>
+&nbsp;&nbsp;📌 2023년 K-해커톤 대회 - CCTV를 활용한 쓰레기를 무단투기하는 사람 식별 Native Program (프론트엔드)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/Dehkartes/K-Hackaton_11_Zenith.git)
 
 <br/> <br/> <br/> <br/>
