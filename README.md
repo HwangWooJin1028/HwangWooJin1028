@@ -72,7 +72,7 @@ Here are some ideas to get you started:
 <br/> <br/> <br/> <br/>
 
 ##  📃 Spring Framework 프로젝트
-&nbsp;&nbsp;📌 2024년 임산부를 위한 친환경 농산물 쇼핑몰<br/>
+&nbsp;&nbsp;📌 <b>2024년 캡스톤 프로젝트</b> 임산부를 위한 친환경 농산물 쇼핑몰<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/HwangWooJin1028/2023-capstone-shppingmall.git)
 <br/> <br/> <br/> <br/>
 
@@ -80,8 +80,12 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;📌 2023년 K-해커톤 대회 - CCTV를 활용한 쓰레기를 무단투기하는 사람 식별 Native Program (프론트엔드)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/Dehkartes/K-Hackaton_11_Zenith.git)
 
-&nbsp;&nbsp;📌 2024년 아두이노를 활용한 AI기반 실시간 식물 케어 시스템<br/>
+&nbsp;&nbsp;📌 <b>2024년 캡스톤 프로젝트</b> 아두이노를 활용한 AI기반 실시간 식물 케어 시스템<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/HwangWooJin1028/aduinoCapstoneProject)
+
+&nbsp;&nbsp;📌 2024년 Yolov5 기반 실시간 쓰레기 분류 프로그램<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>]([https://github.com/HwangWooJin1028/aduinoCapstoneProject](https://github.com/HwangWooJin1028/TrashRecycling))
+
 
 <br/> <br/> <br/> <br/>
 
