@@ -87,7 +87,7 @@ Here are some ideas to get you started:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/HwangWooJin1028/aduinoCapstoneProject)
 
 &nbsp;&nbsp;📌 2024년 Yolov5 기반 실시간 쓰레기 분류 프로그램 (진행중) <br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>]([https://github.com/HwangWooJin1028/aduinoCapstoneProject](https://github.com/HwangWooJin1028/TrashRecycling))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/HwangWooJin1028/EcoSort)
 
 
 <br/> <br/> <br/> <br/>
