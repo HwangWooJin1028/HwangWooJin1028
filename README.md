@@ -77,6 +77,9 @@ Here are some ideas to get you started:
 
 &nbsp;&nbsp;📌 <b>2024년 우수성과 컨퍼런스 출전(IT여성기업협회장 장려상)</b> 친환경 농산물 쇼핑몰<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/HwangWooJin1028/2023-capstone-shppingmall.git)
+
+&nbsp;&nbsp;📌 SNS 웹사이트(진행중)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>](https://github.com/joheeeeeeeee/instagram)
 <br/> <br/> <br/> <br/>
 
 ##  📃 YOLO 프로젝트
